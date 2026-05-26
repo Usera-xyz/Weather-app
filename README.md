@@ -48,7 +48,7 @@ It includes advanced features like debounced search, request cancellation (Abort
 
 ```bash
 # Clone the repository
-git clone https://github.com/TU-USUARIO/weather-app.git
+git clone https://github.com/YOU-USER/weather-app.git
 cd weather-app
 
 # Install dependencies
